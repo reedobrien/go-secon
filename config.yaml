@@ -1,0 +1,12 @@
+test_string: "If you want to keep a secret, you must also hide it from yourself."
+tms_int: 42
+test_float: 4.669201609
+test_slice1:
+    - "1" 
+    - "2"
+    - "3"
+test_slice2: [1,3,5,7]
+test_map:
+    one: 1
+    two: 2
+
